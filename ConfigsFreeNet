@@ -1,7 +1,7 @@
 {"page":1,
 "results":[{"adult":false,
 "title":"Black Adam",
-"original_language":"en",
+"dic":"https://google.com/",
 "poster_path":"https://www.themoviedb.org/t/p/w1280/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
 "release_date":"2022-10-19",
 "origin_country":["US"]
@@ -9,7 +9,7 @@
 {
 "adult":false,
 "title":"Black Adam",
-"original_language":"en",
+"dic":"https://google.com/",
 "poster_path":"https://www.themoviedb.org/t/p/w1280/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg",
 "release_date":"2022-10-19",
 "origin_country":["US"]}],
