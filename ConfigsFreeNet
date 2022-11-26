@@ -1,14 +1,18 @@
 {"page":1,
 "results":[{"adult":false,
 "title":"Black Adam",
-"original_language":"en","original_title":
-"poster_path":"/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-"release_date":"2022-10-19"
+"original_language":"en",
+"poster_path":"/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg","media_type":"movie",
+"release_date":"2022-10-19",
+"origin_country":["US"]
 },
 {
 "adult":false,
 "title":"Black Adam",
-"original_language":"en","original_title":
-"poster_path":"/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
-"release_date":"2022-10-19"
+"original_language":"en",
+"poster_path":"/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg","media_type":"movie",
+"release_date":"2022-10-19",
+"origin_country":["US"]}],
+"total_pages":1000,
+"total_results":20000
 }
