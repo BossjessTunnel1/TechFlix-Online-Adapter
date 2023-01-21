@@ -1,5 +1,5 @@
-{"categories":[{"name":"TechFlix",
-     "videos":[ { "id":["qu43i72b44h1"],
+{"categories":[{"name":"Movies","TechFlix":[{ 
+     "id":["qu43i72b44h1"],
      "title":"Server 01"
       },
       { 
@@ -10,3 +10,5 @@
     }
   ]
  }
+
+
