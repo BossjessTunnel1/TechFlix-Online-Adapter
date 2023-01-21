@@ -2,10 +2,6 @@
      "id":["https://vidsrc.me/embed/"],
      "title":"Server 01"
       },
-      { 
-     "id":["https://www.2embed.to/embed/tmdb/movie?id="], 
-     "title":"Server 02" 
-       },
        {
        "id":["https://autoembed.to/movie/tmdb/"],
        "title":"Server 03"
