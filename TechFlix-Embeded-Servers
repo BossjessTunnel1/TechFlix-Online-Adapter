@@ -1,10 +1,10 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
-       "id":["https://xtreamhub.com/video/"],
-       "title":"Tagalog Movie"
+       "id":["https://vidsrc.me/embed/"],
+       "title":"English & More"
        },
        {
-       "id":["https://vidsrc.me/embed/"],
-       "title":"English & More.."
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Tagalog Movies"
        }
       ] 
     }
