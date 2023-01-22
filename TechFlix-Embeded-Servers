@@ -1,18 +1,10 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
-     "id":["https://vidsrc.me/embed/"],
-     "title":"Server 01"
-      },
-       {
-       "id":["https://autoembed.to/movie/tmdb/"],
-       "title":"Server 02"
-       },
-       {
-       "id":["https://onionflix.org/embed/"],
-       "title":"Server 03"
+       "id":["https://vidsrc.me/embed/"],
+       "title":"English & More.."
        },
        {
        "id":["https://xtreamhub.com/video/"],
-       "title":"Server 04"
+       "title":"Tagalog Movies"
        }
       ] 
     }
