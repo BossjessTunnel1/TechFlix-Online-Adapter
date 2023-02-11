@@ -1,8 +1,8 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
-      "id":["https://autoembed.to/tv/tmdb/"],
+      "id":["https://www.2embed.to/embed/tmdb/tv?id="],
        "title":"Server 01",
-       "season":"-",
-       "episode":"-"
+       "season":"&s=",
+       "episode":"&e="
        },
        {
        "id":["https://vidsrc.me/embed/"],
