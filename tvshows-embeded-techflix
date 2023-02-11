@@ -11,8 +11,14 @@
        "episode":"-"
        },
        {
-       "id":["https://xtreamhub.com/video/"],
+       "id":["https://databasegdriveplayer.xyz/player.php?type=series&tmdb="],
        "title":"Server 03",
+       "season":"&season=",
+       "episode":"&episode="
+       },
+       {
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Server 04",
        "season":"s",
        "episode":"e"
        }
