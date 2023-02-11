@@ -3,6 +3,12 @@
        "title":"Server 01",
        "season":"&s=",
        "episode":"&e="
+       },
+       {
+       "id":["https://vidsrc.me/embed/"],
+       "title":"Server 01",
+       "season":"/",
+       "episode":"-"
        }
       ] 
     }
