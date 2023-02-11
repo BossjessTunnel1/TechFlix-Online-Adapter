@@ -9,6 +9,12 @@
        "title":"Server 01",
        "season":"/",
        "episode":"-"
+       },
+       {
+       "id":["https://xtreamhub.com/video/202250s1e1/"],
+       "title":"Server 01",
+       "season":"s",
+       "episode":"e"
        }
       ] 
     }
