@@ -3,16 +3,12 @@
        "title":"Server 01"
        },
        {
-      "id":["https://2embed.org/pl.php/player.php?id="],
+      "id":["https://vidsrc.me/embed/"],
        "title":"Server 02"
        },
        {
-      "id":["https://vidsrc.me/embed/"],
-       "title":"Server 03"
-       },
-       {
        "id":["https://xtreamhub.com/video/"],
-       "title":"Server 04"
+       "title":"Server 03"
        }
       ] 
     }
