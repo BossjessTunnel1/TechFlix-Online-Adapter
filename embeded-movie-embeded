@@ -1,7 +1,7 @@
 {"categories":[{"name":"Movies","TechFlix":[{ 
-      "id":["https://bossjess.000webhostapp.com/se_player.php?video_id="],
+      "id":["https://www.2embed.to/embed/tmdb/movie?id="],
        "title":"Server 01",
-       "type":"&tmdb=1"
+       "type":""
        },
        {
       "id":["https://vidsrc.me/embed/"],
