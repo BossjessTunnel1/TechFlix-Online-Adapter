@@ -6,15 +6,22 @@
        "extra":""
        },
        {
-       "id":["https://vidsrc.me/embed/"],
+       "id":["https://bossjess.000webhostapp.com/se_player.php?video_id="],
        "title":"Server 02",
+       "season":"&tmdb=1",
+       "episode":"&s=",
+       "extra":"&e="
+       },
+       {
+       "id":["https://vidsrc.me/embed/"],
+       "title":"Server 03",
        "season":"/",
        "episode":"-",
        "extra":""
        },
        {
        "id":["https://xtreamhub.com/video/"],
-       "title":"Server 03",
+       "title":"Server 04",
        "season":"s",
        "episode":"e",
        "extra":"/"
