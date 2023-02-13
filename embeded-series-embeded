@@ -6,13 +6,6 @@
        "extra":""
        },
        {
-       "id":["https://databasegdriveplayer.xyz/player.php?type=series&tmdb="],
-       "title":"Server 02",
-       "season":"&season=",
-       "episode":"&episode=",
-       "extra":""
-       },
-       {
        "id":["https://vidsrc.me/embed/"],
        "title":"Server 03",
        "season":"/",
