@@ -6,11 +6,11 @@
        "extra":""
        },
        {
-       "id":["https://bossjess.000webhostapp.com/se_player.php?video_id="],
+       "id":["https://databasegdriveplayer.xyz/player.php?type=series&tmdb="],
        "title":"Server 02",
-       "season":"&tmdb=1",
-       "episode":"&s=",
-       "extra":"&e="
+       "season":"&season=",
+       "episode":"&episode=",
+       "extra":""
        },
        {
        "id":["https://vidsrc.me/embed/"],
