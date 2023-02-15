@@ -9,8 +9,13 @@
        "type":""
        },
        {
-       "id":["https://xtreamhub.com/video/"],
+      "id":["https://megaembeds.com/embed/"],
        "title":"Server 03",
+       "type":""
+       },
+       {
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Server 04",
        "type":""
        }
       ] 
