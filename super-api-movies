@@ -1,0 +1,25 @@
+{"categories":[{"name":"Movies","TechFlix":[{ 
+      "id":["https://www.2embed.to/embed/tmdb/movie?id="],
+       "title":"Server 01",
+       "type":"",
+       "host":"2embed.to",
+       "port":"80"
+       },
+       {
+      "id":["https://vidsrc.me/embed/"],
+       "title":"Server 02",
+       "type":"",
+       "host":"vidsrc.me",
+       "port":"80"
+       },
+       {
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Server 03",
+       "type":"",
+       "host":"xtreamhub.com",
+       "port":"80"
+       }
+      ] 
+    }
+  ]
+ }
