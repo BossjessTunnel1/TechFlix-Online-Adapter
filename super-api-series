@@ -1,0 +1,31 @@
+{"categories":[{"name":"Movies","TechFlix":[{ 
+      "id":["https://www.2embed.to/embed/tmdb/tv?id="],
+       "title":"Server 01",
+       "season":"&s=",
+       "episode":"&e=",
+       "extra":"",
+       "host":"2embed.to",
+       "port":"80"
+       },
+       {
+       "id":["https://vidsrc.me/embed/"],
+       "title":"Server 02",
+       "season":"/",
+       "episode":"-",
+       "extra":"",
+       "host":"vidsrc.me",
+       "port":"80"
+       },
+       {
+       "id":["https://xtreamhub.com/video/"],
+       "title":"Server 03",
+       "season":"s",
+       "episode":"e",
+       "extra":"/",
+       "host":"xtreamhub",
+       "port":"80"
+       }
+      ] 
+    }
+  ]
+ }
