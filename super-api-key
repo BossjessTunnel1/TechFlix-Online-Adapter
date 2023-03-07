@@ -1,0 +1,16 @@
+{"categories":[{"name":"Movies","TechFlix":[{ 
+       "email":"sample@gmail.com"
+       },
+       {
+       "email":"sample2@gmail.com"
+       },
+       {
+       "email":"sample3@gmail.com"
+       },
+       {
+        "email":"sample4@gmail.com"
+       }
+      ] 
+    }
+  ]
+ }
