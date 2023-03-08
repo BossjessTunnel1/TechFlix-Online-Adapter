@@ -1,4 +1,11 @@
 {"categories":[{"name":"Movies","TechFlix":[
+  {
+   "id":["wEYjt8bzBUg5p2PLjFyX+A=="],
+   "release_date":"01-13-2023", 
+   "original_language":"tl", 
+   "poster_path":"9lmwwQNNlB56IsTM5jpD4Z8rytO.jpg",
+   "title":"Nightbird" 
+    },
    {
    "id":["v6psckIVmQFYkwF7kDNDgg=="],
    "release_date":"10-29-2022", 
