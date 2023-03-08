@@ -1,5 +1,19 @@
 {"categories":[{"name":"Movies","TechFlix":[
-  {
+   {
+   "id":["HIhx9xkQ4gSJh9KEB4GKlA=="],
+   "release_date":"12-16-2022", 
+   "original_language":"tl", 
+   "poster_path":"2z12d7kRTVsGUoZRwFcVsMtiWwA.jpg",
+   "title":"Pamasahe" 
+    },
+   {
+   "id":["CkDo5/CY3QArAbGyqNvRug=="],
+   "release_date":"12-09-2022", 
+   "original_language":"tl", 
+   "poster_path":"6spqXV5kgNkZBIwjuZkxIx8flfQ.jpg",
+   "title":"Pamasahe" 
+    },
+   {
    "id":["sQWp5PdUYjkvj3y/YF42hQ=="],
    "release_date":"01-12-2009", 
    "original_language":"tl", 
