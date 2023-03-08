@@ -1,5 +1,12 @@
 {"categories":[{"name":"Movies","TechFlix":[
    {
+   "id":["t0NuvYiSnK5NZWmgnNv2gQ=="],
+   "release_date":"08-07-2022", 
+   "original_language":"tl", 
+   "poster_path":"tSMIEtpdwR3wb422I1dvL114jlz.jpg",
+   "title":"Kaluskos" 
+    },
+   {
    "id":["1cgFMGKRJJS/l3AN3dzrYQ=="],
    "release_date":"02-10-2023", 
    "original_language":"tl", 
