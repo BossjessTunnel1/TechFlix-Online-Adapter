@@ -1,5 +1,12 @@
 {"categories":[{"name":"Movies","TechFlix":[
    {
+   "id":["1cgFMGKRJJS/l3AN3dzrYQ=="],
+   "release_date":"02-10-2023", 
+   "original_language":"tl", 
+   "poster_path":"iTmMRWqLII3khXfOXRlHAp4UDyb.jpg",
+   "title":"La Querida" 
+    },
+   {
    "id":["dxWrh086wvBiNLRpOIilZQ=="],
    "release_date":"09-28-2022", 
    "original_language":"tl", 
