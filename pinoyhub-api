@@ -1,5 +1,12 @@
 {"categories":[{"name":"Movies","TechFlix":[
-  {
+   {
+   "id":["bFpa+cDAZwvkvN1OVEMuQA=="],
+   "release_date":"11-10-2022", 
+   "original_language":"tl", 
+   "poster_path":"cbTg5aZISwrY36WyBGKkV7P88Nd.jpg",
+   "title":"Adik" 
+    },
+   {
    "id":["HFerVZDanGc/vJ53cTeiFQ=="],
    "release_date":"01-06-2023", 
    "original_language":"tl", 
