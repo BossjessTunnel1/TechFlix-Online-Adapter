@@ -1,4 +1,11 @@
 {"categories":[{"name":"Movies","TechFlix":[
+  {
+   "id":["KdQ3JiO7a9uwVWIiicQ8aQ=="],
+   "release_date":"01-27-2023", 
+   "original_language":"tl", 
+   "poster_path":"yZb3rdxBwDiAKIsOnyPl3urdo0j.jpg",
+   "title":"Bela Luna" 
+    },
    {
    "id":["O8DhSPzaDos+1qpK+iBJ3g=="],
    "release_date":"12-02-2022", 
