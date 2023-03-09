@@ -1,5 +1,12 @@
 {"categories":[{"name":"Movies","TechFlix":[
-  {
+   {
+   "id":["yCw8mafKLFyMxfeLZcn2LQ=="],
+   "release_date":"09-02-2022", 
+   "original_language":"tl", 
+   "poster_path":"rGLUh7cjJe7xUPzG9SOgGiyArgm.jpg",
+   "title":"Bula" 
+    },
+   {
    "id":["KdQ3JiO7a9uwVWIiicQ8aQ=="],
    "release_date":"01-27-2023", 
    "original_language":"tl", 
