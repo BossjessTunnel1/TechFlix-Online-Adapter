@@ -1,5 +1,19 @@
 {"categories":[{"name":"Movies","TechFlix":[
    {
+   "id":["CmwBpsCvcdhRkWOoAC1McA=="],
+   "release_date":"08-12-2022", 
+   "original_language":"tl", 
+   "poster_path":"5UKoGU3y92k9v319DqxzmZUqxfo.jpg",
+   "title":"The Influencer" 
+    },
+    {
+   "id":["nWvR1XdIPT1J9by6dqYd5Q=="],
+   "release_date":"09-30-2022", 
+   "original_language":"tl", 
+   "poster_path":"7isaQ0kCpOPevBBpagahMNYU8oI.jpg",
+   "title":"Girl Friday" 
+    },
+   {
    "id":["ek2SujUDAdY2voYMGsm5eQ=="],
    "release_date":"01-28-2022", 
    "original_language":"tl", 
