@@ -1,5 +1,19 @@
 {"categories":[{"name":"Movies","TechFlix":[
    {
+   "id":["KrheThW1cJ6lNNzUi2ITWw=="],
+   "release_date":"03-03-2023", 
+   "original_language":"tl", 
+   "poster_path":"5haMVGBDcFO96xF7a91ZnSLM1Qm.jpg",
+   "title":"Upuan" 
+    },
+    {
+   "id":["JZELs1rXEnm6Ahf0P/9FHg=="],
+   "release_date":"03-10-2023", 
+   "original_language":"tl", 
+   "poster_path":"nNdHZOtJNCMuhTYtrdVwGNQHbQy.jpg",
+   "title":"Salamat Daks" 
+    },
+   {
    "id":["CmwBpsCvcdhRkWOoAC1McA=="],
    "release_date":"08-12-2022", 
    "original_language":"tl", 
